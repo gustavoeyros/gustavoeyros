@@ -14,7 +14,7 @@
   
 <div align="left">  
 
-  ## 🛠 &nbsp; Habilidades
+  ## :computer: Habilidades
 
 <div style="display: inline_block">
   <img align="center" alt="Luiz-HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,7 +24,7 @@
 </div>
 <br>
 
-##  :telephone_receiver: Contato
+##  :mailbox_with_no_mail: Contato
 
 <a href="https://linkedin.com/in/gustavo-eyros-009665218?" target="_blank">
   <img align="center" alt="linkedin" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
