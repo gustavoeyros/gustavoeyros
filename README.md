@@ -3,9 +3,11 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gustavo Eyros</h1>
 
 
-- :books: FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre
+- :books: FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)
 
+- :office: Estagiário TI - Angelus (08/2022 - Atualmente)
 
+- ⚡ Tenho 18 anos e atualmente estou estudando NodeJS e CyberSecurity através da Alura.
 
   <a href="https://github.com/gustavoeyros">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavoeyros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,7 +23,7 @@
   <img align="center" alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MYSQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="GIT" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg>
+  <img align="center" alt="GIT" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
 </div>
 <br>
