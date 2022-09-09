@@ -7,9 +7,9 @@
 
 - :office: Estagiário TI - Angelus (08/2022 - Atualmente)
 
-- ⚡ Tenho 18 anos e atualmente estou estudando NodeJS e CyberSecurity.
-  <a href="https://github.com/gustavoeyros">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavoeyros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+- ⚡ Tenho 18 anos e atualmente estou estudando NodeJS e CyberSecurity.<br>
+
+  
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoeyros&layout=compact&langs_count=7&theme=tokyonight"/><br>
   
   
