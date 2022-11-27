@@ -5,7 +5,7 @@
 
 - :books: FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)
 
-- :office: Estagiário TI - Angelus (08/2022 - Atualmente)
+- :office: Estagiário TI - Angelus (08/2022 - 11/2022)
 
 - ⚡ Tenho 18 anos e atualmente estou estudando NodeJS e CyberSecurity.<br>
 
