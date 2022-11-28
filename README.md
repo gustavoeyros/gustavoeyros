@@ -17,7 +17,7 @@
 
    ## :office: Experiências
           
-- [ ] Front-end developer intern - Compass.uol (08/2022 - Atualmente)         
+- [ ] Front-end developer intern - Compass.uol (11/2022 - Atualmente)         
 - [x] Tech Intern - Angelus (08/2022 - 11/2022) 
 
 </div>
