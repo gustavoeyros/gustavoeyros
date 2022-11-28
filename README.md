@@ -5,9 +5,9 @@
 
 - :books: FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)
 
-- :office: Estagiário TI - Angelus (08/2022 - 11/2022)
 
-- ⚡ Tenho 18 anos e atualmente estou estudando NodeJS e CyberSecurity.<br>
+
+- ⚡ Tenho 18 anos e atualmente estou estudando React, NodeJS e CyberSecurity.<br>
 
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoeyros&layout=compact&langs_count=7&theme=tokyonight"/><br>
@@ -15,6 +15,16 @@
   
 <div align="left">  
 
+   ## :office: Experiências
+          
+- [ ] Front-end developer intern - Compass.uol (08/2022 - Atualmente)         
+- [x] Tech Intern - Angelus (08/2022 - 11/2022) 
+
+</div>
+
+
+<div align="left">
+          
   ## :computer: Habilidades
 
 <div style="display: inline_block">
@@ -29,10 +39,11 @@
   <img align="center" alt="NODEJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="EXPRESS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="HANDLEBARS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />         
-            
+     
+  </div>
           
   
-</div>
+
 <br>
 
 ##  :mailbox_with_no_mail: Contato
