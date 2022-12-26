@@ -17,7 +17,7 @@
 
    ## :office: Experiências
           
-- [ ] Front-end developer intern - Compass.uol (11/2022 - Atualmente)         
+- [ ] Front-end Developer Intern - Compass.uol (11/2022 - Atualmente)         
 - [x] Tech Intern - Angelus (08/2022 - 11/2022) 
 
 </div>
@@ -31,6 +31,7 @@
   <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  align="center" alt="TYPESCRIPT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
   <img align="center" alt="BOOTSTRAP" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="MYSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="MONGODB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
@@ -38,7 +39,8 @@
   <img align="center" alt="GIT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="NODEJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="EXPRESS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="HANDLEBARS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />         
+  <img align="center" alt="HANDLEBARS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />   
+        
      
   </div>
           
