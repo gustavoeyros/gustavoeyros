@@ -3,7 +3,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gustavo Eyros</h1>
 
 
-- :books: FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)
+- :books: FATEC - Desenvolvimento de Software Multiplataforma - 3º Semestre (Cursando)
 
 
 
