@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gustavo Eyros</h1>
+<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Gustavo Eyros</h1>
 
 
 - :books: FATEC - Desenvolvimento de Software Multiplataforma - 3º Semestre (Cursando)
 
-
+- :scroll: AWS Certified Cloud Practitioner
 
 - ⚡ Tenho 18 anos e atualmente estou estudando React, NodeJS e CyberSecurity.<br>
 
@@ -17,7 +17,7 @@
 
    ## :office: Experiências
           
-- [ ] Front-end Developer Intern - Compass.uol (11/2022 - Atualmente)         
+- [x] Front-end Developer Intern - Compass.uol (11/2022 - 04/2023)         
 - [x] Tech Intern - Angelus (08/2022 - 11/2022) 
 
 </div>
@@ -37,7 +37,7 @@
   <img align="center" alt="MONGODB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
   <img align="center" alt="NODEJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="REACTJS" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
-     
+  <img align="center" alt="GOLANG" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   </div>
           
   
