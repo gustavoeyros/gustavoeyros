@@ -7,7 +7,7 @@
 
 - :scroll: AWS Certified Cloud Practitioner
 
-- ⚡ Tenho 18 anos e atualmente estou estudando React, NodeJS e CyberSecurity.<br>
+- ⚡ Tenho 19 anos e atualmente estou estudando React, NodeJS e CyberSecurity.<br>
 
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoeyros&layout=compact&langs_count=7&theme=tokyonight"/><br>
