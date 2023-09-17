@@ -17,7 +17,7 @@
 
    ## :office: Experiências
          
-- [ ] Front-end Developer - Compass.uol (06/2023 - Atualmente)   
+- [ ] FullStack Developer - Compass.uol (06/2023 - Atualmente)   
 - [x] Front-end Developer Intern - Compass.uol (11/2022 - 04/2023)         
 - [x] Tech Intern - Angelus (08/2022 - 11/2022) 
 
